@@ -1,6 +1,2 @@
-This is my first file i
-
-
-
-
 Updating something in this file
+This is my file and updating few things
